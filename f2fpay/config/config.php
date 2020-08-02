@@ -19,7 +19,7 @@ $config = array (
 		'app_id' => "2021001184670643",
 
 		//支付通知地址
-		'notify_url' => "http://你的网站域名/notify_url.php",
+		'notify_url' => "http://github.com/Qirun/8tupian/notify_url.php",
 		
 		//手机支付页面显示的客服QQ，留空则不显示。建议填写（写到双引号里面）
 		'contactqq' => " ",
